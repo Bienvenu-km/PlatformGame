@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: movement
   m_EditorClassIdentifier: Unity.VisualScripting.Flow::Unity.VisualScripting.ScriptGraphAsset
   _data:
-    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"movement","summary":null,"pan":{"x":0.0,"y":0.0},"zoom":1.0,"elements":[],"$version":"A"}}'
+    _json: '{"graph":{"variables":{"Kind":"Flow","collection":{"$content":[],"$version":"A"},"$version":"A"},"controlInputDefinitions":[],"controlOutputDefinitions":[],"valueInputDefinitions":[],"valueOutputDefinitions":[],"title":"movement","summary":null,"pan":{"x":0.0,"y":-180.623},"zoom":1.0,"elements":[{"coroutine":false,"defaultValues":{},"position":{"x":-695.0,"y":-359.0},"guid":"7ba8638a-b390-4924-be9f-cb1d0da575e9","$version":"A","$type":"Unity.VisualScripting.Update"}],"$version":"A"}}'
     _objectReferences: []
